@@ -1,0 +1,15 @@
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\bin\Debug\ReadWriteIniFile.exe.config
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\bin\Debug\ReadWriteIniFile.exe
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\bin\Debug\ReadWriteIniFile.pdb
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\bin\Debug\ReadWriteIniFile.xml
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\obj\Debug\ManajemenKontak.vbproj.AssemblyReference.cache
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\obj\Debug\ManajemenKontak.vbproj.SuggestedBindingRedirects.cache
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\obj\Debug\ReadWriteIniFile.bacakontak.resources
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\obj\Debug\ReadWriteIniFile.tambahkontak.resources
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\obj\Debug\ReadWriteIniFile.MenuUtama.resources
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\obj\Debug\ReadWriteIniFile.Resources.resources
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\obj\Debug\ManajemenKontak.vbproj.GenerateResource.cache
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\obj\Debug\ManajemenKontak.vbproj.CoreCompileInputs.cache
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\obj\Debug\ReadWriteIniFile.exe
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\obj\Debug\ReadWriteIniFile.xml
+D:\BACKOLD\01. Data Ayah\0. IQBAL\UNSIA\SEMESTER 1\Pemrograman Visual\ReadWriteIniFile\obj\Debug\ReadWriteIniFile.pdb
